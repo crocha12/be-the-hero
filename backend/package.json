@@ -7,7 +7,7 @@
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "crocha12",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
